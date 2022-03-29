@@ -1,6 +1,6 @@
 # Cadastro-devs.
 
-## projeto de tela de cadastro para desenvolvedores 
+## Esse foi meu primeiro projeto de tela de Cadastro 
 
 ## linguagens  que foram ultilizadas no projeto: HTML,CSS
 
